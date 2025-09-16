@@ -1,0 +1,20 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "<br>\r <img src=\"./images/img11.png\" width=\"300\"/><img src=\"./images/img12.png\" width=\"350\" height=\"297\"/>\r <br>\r With weather description and day and night cycle test implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryslzr/Unique-weather-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryslzr/Unique-weather-app/issues"
+  },
+  "homepage": "https://github.com/ryslzr/Unique-weather-app#readme"
+}
