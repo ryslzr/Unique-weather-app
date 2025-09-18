@@ -99,9 +99,4 @@ Create a weather widget that blends real-time data with a cozy, sprightly animat
 - Type "cd client" then "npm run start" - it will take few minutes to open.
 
 
-"# Unique-weather-app" 
-"# Unique-weather-app" 
-"# Unique-weather-app" 
-"# Unique-weather-app" 
-"# Unique-weather-app" 
-"# Unique-weather-app" 
+
