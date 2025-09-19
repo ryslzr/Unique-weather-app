@@ -1,8 +1,16 @@
-# Unique Cozy Weather Widget App – Project Breakdown
-<br>
-<img src="./images/img11.png" width="300"/><img src="./images/img12.png" width="350" height="297"/>
-<br>
-With weather description and day and night cycle test implementation.
+<h1 style="text-align: center; font-family: sans-serif; margin-bottom: 20px;">
+  Unique Cozy Weather Widget App – Project Breakdown
+</h1>
+
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img src="./images/img11.png" alt="Day Weather" style="width: 320px; border-radius: 8px;" />
+  <img src="./images/img12.png" alt="Night Weather" style="width: 380px; border-radius: 8px;" />
+</div>
+
+<p style="text-align: center; font-family: sans-serif;">
+  With weather description and day and night cycle test implementation.
+</p>
+
 
 ---
 
