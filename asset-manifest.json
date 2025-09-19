@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Unique-weather-app/static/css/main.93ccaf0a.css",
-    "main.js": "/Unique-weather-app/static/js/main.470c5ac8.js",
+    "main.js": "/Unique-weather-app/static/js/main.c7fe4b72.js",
     "static/media/bew 2.png": "/Unique-weather-app/static/media/bew 2.e0c6393c5d10d7842fc7.png",
     "static/media/new 2.png": "/Unique-weather-app/static/media/new 2.97b185465b57ace2cc3c.png",
     "static/media/bew 1.png": "/Unique-weather-app/static/media/bew 1.e4b00902a4bddb9581ec.png",
     "static/media/new 1.png": "/Unique-weather-app/static/media/new 1.0213fd25ad1289049ec3.png",
     "index.html": "/Unique-weather-app/index.html",
     "main.93ccaf0a.css.map": "/Unique-weather-app/static/css/main.93ccaf0a.css.map",
-    "main.470c5ac8.js.map": "/Unique-weather-app/static/js/main.470c5ac8.js.map"
+    "main.c7fe4b72.js.map": "/Unique-weather-app/static/js/main.c7fe4b72.js.map"
   },
   "entrypoints": [
     "static/css/main.93ccaf0a.css",
-    "static/js/main.470c5ac8.js"
+    "static/js/main.c7fe4b72.js"
   ]
 }
