@@ -12,8 +12,8 @@ function App() {
 
   useEffect(() => {
     console.log('Sending request to backend...');
-    fetch('https://unique-weather-app.onrender.com', { // here we are fetching the data from the weather api localhost:5000 
-      method: 'GET',
+    fetch('http://localhost:5000/', { // here we are fetching the data from the localhost:5000 
+      method: 'POST',
       headers: {
         'Content-Type': 'application/json'
       }
