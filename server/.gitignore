@@ -1,3 +1,0 @@
-// these are not needed or wont show when pushed to git.
-.env
-node-modules
